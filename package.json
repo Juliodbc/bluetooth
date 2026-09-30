@@ -12,16 +12,21 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@capacitor-community/sqlite": "^7.0.0",
+    "@capacitor/android": "^8.5.2",
     "@capacitor/app": "8.1.1",
     "@capacitor/core": "8.5.2",
     "@capacitor/haptics": "8.0.2",
     "@capacitor/keyboard": "8.0.5",
     "@capacitor/status-bar": "8.0.3",
+    "@capgo/capacitor-bluetooth-low-energy": "^8.2.1",
     "@ionic/vue": "^9.0.0",
     "@ionic/vue-router": "^9.0.0",
     "ionicons": "^8.1.0",
+    "pinia": "^3.0.0",
     "vue": "^3.5.0",
-    "vue-router": "^5.0.0"
+    "vue-router": "^5.0.0",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@capacitor/cli": "8.5.2",
